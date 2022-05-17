@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://getithappen.my.canva.site](https://getithappen.my.canva.site)
 
-- 📝 I regularly write articles on [https://praisyrivritham.wixsite.com/my-site](https://praisyrivritham.wixsite.com/my-site)
+- 📝 One of my creation [https://praisyrivritham.wixsite.com/my-site](https://praisyrivritham.wixsite.com/my-site)
 
 - 💬 Ask me about **Python,HTML,Canva,CSS,JS**
 
