@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **AI-ML,Full-Stack,PowerBI**
 
-- 👨‍💻 All of my projects are available at [https://getithappen.my.canva.site](https://getithappen.my.canva.site)
+- 👨‍💻 One of my project is available at [https://getithappen.my.canva.site](https://getithappen.my.canva.site)
 
 - 📝 One of my creation [https://praisyrivritham.wixsite.com/my-site](https://praisyrivritham.wixsite.com/my-site)
 
-- 💬 Ask me about **Python,HTML,Canva,CSS,JS**
+- 💬 Ask me about **Python,HTML,Canva,CSS,JS,C,Java**
 
 - 📫 How to reach me **praisyrivritha.m@gmail.com**
 
