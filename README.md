@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **praisyrivritha.m@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xfAmcab16sQg2Y6lHG0w_iPkApeTS_Uij356uzObr8Y/](https://docs.google.com/document/d/1xfAmcab16sQg2Y6lHG0w_iPkApeTS_Uij356uzObr8Y/)
+- 📄 Know about my experiences [file:///D:/Resume%20(1).pdf](file:///D:/Resume%20(1).pdf)
 
 - ⚡ Fun fact **I almost spend much time listening to Unknown facts and conspiracy Theories**
 
