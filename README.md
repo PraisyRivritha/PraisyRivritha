@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/praisyrivritham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praisyrivritham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/praisyrivritha.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praisyrivritha.m" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/praisyrivritha.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="praisyrivritha_m" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/praisyrivritha_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="praisyrivritha_m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
