@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vSMx3vADblWqrGRPi2Ycj45sw0ASnCMjIgjuEUKyTxCGxnBMVXAbFHrnXPmnaD8iIuQvxBegvUgk0Ws/pub]
 
-- ⚡ Fun fact **I almost spend most of my time listening to Unknown facts and conspiracy Theories**
+- ⚡ Fun fact **I almost spend most of my time listening Unknown facts and conspiracy Theories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
