@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack,Data Analysis**
 
-- 🌱 I’m currently learning **AI-ML,Full-Stack,PowerBI**
+- 🌱 I’m currently learning **AI-ML,Full-Stack,Tableau**
 
 - 👨‍💻 One of my project is available at [https://getithappen.my.canva.site](https://getithappen.my.canva.site)
 
