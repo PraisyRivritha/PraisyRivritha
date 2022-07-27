@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI-ML,Full-Stack,Tableau**
 
-- 👨‍💻 One of my project is available at [https://getithappen.my.canva.site](https://getithappen.my.canva.site)
+- 👨‍💻 One of my website is available at [https://getithappen.my.canva.site](https://getithappen.my.canva.site)
 
 - 📝 One of my article is on [https://praisyrivritham.wixsite.com/my-site](https://praisyrivritham.wixsite.com/my-site)
 
