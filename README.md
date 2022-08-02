@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Praisy Rivritha.M</h1>
 <h3 align="center">A passionate Frontend Developer and Data Scientist</h3>
 
-- 🔭 I’m currently working on **Full Stack,Data Analysis**
+- 🔭 I’m currently working on **Cyber Security,Data Analysis**
 
-- 🌱 I’m currently learning **AI-ML,Full-Stack,Tableau**
+- 🌱 I’m currently learning **Ethical Hacking,Tableau**
 
 - 👨‍💻 One of my website is available at [https://getithappen.my.canva.site](https://getithappen.my.canva.site)
 
