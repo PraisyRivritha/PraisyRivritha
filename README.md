@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **praisyrivritha.m@gmail.com**
 
-- ⚡ Fun fact **I almost spend most of my time listening Unknown facts and conspiracy Theories**
+- ⚡ Fun fact **I almost spend most of my time listening Unknown facts and conspiracy Theories and getting to know new things!!**
 
 <h3 align="left">Reach me out:</h3>
 <p align="left">
