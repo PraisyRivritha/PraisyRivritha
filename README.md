@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m good at **Ethical Hacking**
+- 🌱 I’m good at **Ethical Hacking,Data Analysis**
 
 - 👨‍💻 One of my website is available at [https://getithappen.my.canva.site](https://getithappen.my.canva.site)
 
 - 📝 One of my article is on [https://praisyrivritham.wixsite.com/my-site](https://praisyrivritham.wixsite.com/my-site)
 
-- 💬 Ask me about **Python,HTML,Canva**
+- 💬 Ask me about **Python,HTML,CSS**
 
 - 📫 How to reach me **praisyrivritha.m@gmail.com**
 
