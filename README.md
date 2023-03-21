@@ -7,9 +7,7 @@
 
 - 💬 Ask me about **Python,HTML,CSS**
 
-- 📫 How to reach me **praisyrivritha.m@gmail.com**
-
-- ⚡ Fun fact **I almost spend most of my time listening Unknown facts and conspiracy Theories and getting to know new things!!**
+- ⚡ Fun fact **I almost spend most of my time listening to Aviation Stories , Unknown Facts and getting to know new things!!**
 
 <h3 align="left">Reach out:</h3>
 <p align="left">
