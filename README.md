@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python,HTML,CSS**
 
-- ⚡ Fun fact **I almost spend most of my time listening to Aviation Stories**
+- ⚡ Fun fact **I almost spend most of my time listening to Aviation Stories and Unknown Facts**
 
 <h3 align="left">Reach out:</h3>
 <p align="left">
