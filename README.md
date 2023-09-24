@@ -1,5 +1,3 @@
-<html>
-<body style="background-color:black;">
 <h1 align="center">Hi 👋, I'm Praisy Rivritha.M</h1>
 <h3 align="center">Frontend Developer and an Upcoming Data Scientist</h3>
 
@@ -18,4 +16,3 @@
 </p>
 <h3 align="left">Badge:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praisyrivritha&" alt="praisyrivritha" /></p>
-</html>
